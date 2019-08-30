@@ -17,4 +17,7 @@
 
  **** 資本金
  100万円
+
+ **** お問い合わせ
+ contact@proof-ninja.co.jp
  *)
