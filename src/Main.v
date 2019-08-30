@@ -1,9 +1,9 @@
 (**
  * 株式会社 proof ninja
 
- ** 会社概要
-
  proof ninjaは証明支援系Coqや関数型プログラミング言語OCamlを使って、確かなソフトウェアを提供します。
+
+ ** 会社概要
 
  **** 会社名
  株式会社 proof ninja
