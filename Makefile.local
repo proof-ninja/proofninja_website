@@ -1,1 +1,2 @@
-COQDOCEXTRAFLAGS="--short"
+OQDOCEXTRAFLAGS:=--short
+VERBOSE:=true
