@@ -35,7 +35,7 @@
  - #<a href="https://www.dailambda.jp/">ダイラムダ株式会社</a>#
 
  **** 取引金融機関名
- 三菱UFJ銀行
+ - 三菱UFJ銀行
 
  **** お問い合わせ
  contact@proof-ninja.co.jp
