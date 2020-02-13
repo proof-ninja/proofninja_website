@@ -35,8 +35,8 @@
  - #<a href="https://www.dailambda.jp/">ダイラムダ株式会社</a>#
 
  **** 取引金融機関名
- - GMOあおぞらネット銀行
- - 三菱UFJ銀行
+ - #<a href="https://gmo-aozora.com/">GMOあおぞらネット銀行</a>#
+ - #<a href="https://www.bk.mufg.jp/">三菱UFJ銀行</a>#
 
  **** お問い合わせ
  contact@proof-ninja.co.jp
