@@ -33,6 +33,8 @@
 
  **** 主要取引先
  - #<a href="https://www.dailambda.jp/">ダイラムダ株式会社</a>#
+ - #<a href="http://www.nagoya-u.ac.jp/">国立大学法人 名古屋大学</a>#
+ - #<a href="https://www.nii.ac.jp/">国立情報学研究所</a>#
 
  **** 取引金融機関名
  - #<a href="https://gmo-aozora.com/">GMOあおぞらネット銀行</a>#
