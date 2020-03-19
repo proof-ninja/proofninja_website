@@ -5,7 +5,7 @@
 (**
  * proof ninja, Inc.
 
-  We develop proven software using formal verification tools and functional programming languages.
+  We develop mathematically proven software using formal verification tools and functional programming languages.
 
  ** Business Content
  **** Software verification / development
