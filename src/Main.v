@@ -7,7 +7,7 @@
 
   We develop proven software using formal verification tools and functional programming languages.
 
- ** Business content
+ ** Business Content
  **** Software verification / development
  Achieve highly reliable software development with functional programming and proof assistants.
 
