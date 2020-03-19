@@ -1,4 +1,8 @@
 (**
+   #<a href="Main.html">English</a>#
+   #<a href="MainJa.html">日本語</a>#
+ *)
+(**
  * 株式会社 proof ninja
 
  proof ninjaは証明支援系Coqや関数型プログラミング言語OCamlを使って、確かなソフトウェアを提供します。
