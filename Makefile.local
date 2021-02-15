@@ -1,2 +1,2 @@
-COQDOCEXTRAFLAGS=--short
+COQDOCEXTRAFLAGS=--short --with-header header.html --with-footer footer.html
 VERBOSE:=true
