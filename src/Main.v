@@ -4,6 +4,7 @@
  *)
 (**
  * proof ninja, Inc.
+ #<img width="100%" src="images/proofninja-ho.png"/>#
 
   We develop mathematically proven software using formal verification tools and functional programming languages.
 

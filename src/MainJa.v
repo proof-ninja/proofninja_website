@@ -4,6 +4,7 @@
  *)
 (**
  * 株式会社 proof ninja
+ #<img width="100%" src="images/proofninja-ho.png"/>#
 
  proof ninjaは数学的に証明されたソフトウェアを開発します。
 
