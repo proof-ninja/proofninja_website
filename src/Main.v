@@ -38,8 +38,9 @@
 
  **** Customers
  - #<a href="https://www.dailambda.jp/">DaiLambda, Inc.</a>#
- - #<a href="http://www.nagoya-u.ac.jp/">Nagoya University</a>#
+ - #<a href="https://www.nagoya-u.ac.jp/">Nagoya University</a>#
  - #<a href="https://www.nii.ac.jp/">National Institute of Infomatics</a>#
+ - #<a href="https://everforth.co.jp/">Everforth Co., Ltd.</a>#
 
  **** Financial Institution
  - #<a href="https://gmo-aozora.com/">GMO Aozora Net Bank</a>#
