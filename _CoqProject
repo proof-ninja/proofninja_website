@@ -1,2 +1,3 @@
+COQDOCFLAGS = "-utf8 --no-index --title 'proof ninja, Inc.' --short -toc -html --with-header header.html --with-footer footer.html"
 src/Main.v
 src/MainJa.v
