@@ -28,7 +28,7 @@
  #<a href="https://yoshihiro503.github.io/home_en.html">profile</a>#
 
  **** Location
- 1-11-6 Minami Tokiwadai, Itabashi-ku, Tokyo, Japan
+ 1 Minami Tokiwadai, Itabashi-ku, Tokyo, Japan
 
  **** Establishment
  September 02, 2019
