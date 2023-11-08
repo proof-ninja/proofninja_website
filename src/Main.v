@@ -36,6 +36,9 @@
  **** Capital Stock
  11 million yen (including capital surplus)
 
+ **** Affiliated Company
+ - #<a href="https://dwango.co.jp/">DWANGO Co., Ltd.</a>#
+
  **** Customers
  - #<a href="https://www.dailambda.jp/">DaiLambda, Inc.</a>#
  - #<a href="https://www.nagoya-u.ac.jp/">Nagoya University</a>#
