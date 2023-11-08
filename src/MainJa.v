@@ -36,6 +36,9 @@
  **** 資本金
  1100万円 (資本剰余金含む)
 
+ **** 関連会社
+ - #<a href="https://dwango.co.jp/">DWANGO Co., Ltd.</a>#
+
  **** 主要取引先
  - #<a href="https://www.dailambda.jp/">ダイラムダ株式会社</a>#
  - #<a href="https://www.nagoya-u.ac.jp/">国立大学法人 名古屋大学</a>#
